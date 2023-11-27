@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Eyad Ismail</h1>
 <h3 align="center">A creative Full Stack Developer</h3>
 
-- 🔭 I’m currently working on my [e-commerce solution](https://grocery.eyadroid.com)
+- 🔭 I’m currently working on my [e-commerce solution](https://grocery.eyadroid.com/about)
 
 - 👨‍💻 All of my projects are available at [https://eyadroid.com](https://eyadroid.com)
 
